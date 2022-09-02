@@ -482,7 +482,8 @@ body {
   color: #fe4066;
 }
 
-@media (max-width: 767px) {
+/* hidden button next preview */
+/* @media (max-width: 767px) {
   .slick-prev,
   .slick-next {
     display: none;
@@ -493,7 +494,7 @@ body {
     display: none;
     z-index: -3;
   }
-}
+} */
 /* ---  */
 /* video bg footer */
 .bg-foot .bg-video {
