@@ -428,7 +428,7 @@ body {
   box-shadow: 0px 3px 20px rgba(255, 134, 205, 0.5);
 }
 
-.medsos {
+.medsos, .bg-foot {
   background-color: #deb887;
   padding: 10px;
 }
@@ -607,5 +607,41 @@ body {
   text-decoration: none;
   color: #ffffff;
   background-color: #fe4066;
+}
+
+.navbar .oval {
+  border-radius: 20px;
+  border: solid 2px #ffd700;
+}
+.exclusive{
+  padding-top: 50px;
+}
+
+.exclusive .bingkai img{
+  object-fit: cover;
+  object-position: top;
+  border-bottom-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+  border-top-left-radius: 20%;
+  border-top-right-radius: 20%;
+  height: 280px;
+  width: 190px;
+  border: solid 4px #ffc0cb;
+}
+.exclusive, .basic .bingkai .deskrip .nama{
+  margin-top: 8px;
+  margin-bottom: -2px;
+}
+
+.basic .bingkai img{
+  object-fit: cover;
+  object-position: top;
+  border-bottom-right-radius: 20%;
+  border-bottom-left-radius: 20%;
+  border-top-left-radius: 20%;
+  border-top-right-radius: 20%;
+  height: 280px;
+  width: 190px;
+  border: solid 4px #504747;
 }
 
