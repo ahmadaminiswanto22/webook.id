@@ -638,12 +638,12 @@ body {
 .exclusive .bingkai img{
   object-fit: cover;
   object-position: top;
-  border-bottom-right-radius: 20%;
-  border-bottom-left-radius: 20%;
-  border-top-left-radius: 20%;
-  border-top-right-radius: 20%;
-  height: 280px;
-  width: 190px;
+  border-bottom-right-radius: 18%;
+  border-bottom-left-radius: 18%;
+  border-top-left-radius: 18%;
+  border-top-right-radius: 18%;
+  height: 250px;
+  width: 180px;
   border: solid 4px #ffc0cb;
 }
 .exclusive .bingkai .deskrip .nama{
@@ -654,12 +654,12 @@ body {
 .basic .bingkai img{
   object-fit: cover;
   object-position: top;
-  border-bottom-right-radius: 20%;
-  border-bottom-left-radius: 20%;
-  border-top-left-radius: 20%;
-  border-top-right-radius: 20%;
-  height: 280px;
-  width: 190px;
+  border-bottom-right-radius: 18%;
+  border-bottom-left-radius: 18%;
+  border-top-left-radius: 18%;
+  border-top-right-radius: 18%;
+  height: 250px;
+  width: 180px;
   border: solid 4px #504747;
 }
 .basic .bingkai .deskrip .nama{
