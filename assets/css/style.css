@@ -611,7 +611,25 @@ body {
 
 .navbar .oval {
   border-radius: 20px;
-  border: solid 2px #ffd700;
+  border: solid 2px #deb887;
+}
+.portofolio .first-title {
+  /* font-family: "Oleo Script", cursive; */
+  font-family: monospace;
+  font-size: 40px;
+  font-weight: 400;
+  line-height: 1.2;
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  /* margin: 0px 0px 12px; */
+  margin-top: 310px;
+  text-shadow: 1px 1px 0px grey;
+}
+@media(min-width: 720px) {
+  .portofolio .first-title {
+    margin-top: 500px;
+  }
 }
 .exclusive{
   padding-top: 50px;
@@ -628,9 +646,9 @@ body {
   width: 190px;
   border: solid 4px #ffc0cb;
 }
-.exclusive, .basic .bingkai .deskrip .nama{
+.exclusive .bingkai .deskrip .nama{
   margin-top: 8px;
-  margin-bottom: -2px;
+  margin-bottom: -1px;
 }
 
 .basic .bingkai img{
@@ -644,4 +662,9 @@ body {
   width: 190px;
   border: solid 4px #504747;
 }
+.basic .bingkai .deskrip .nama{
+  margin-top: 8px;
+  margin-bottom: -1px;
+}
+
 
