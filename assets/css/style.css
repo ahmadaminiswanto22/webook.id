@@ -428,7 +428,7 @@ body {
   box-shadow: 0px 3px 20px rgba(255, 134, 205, 0.5);
 }
 
-.medsos, .bg-foot {
+.medsos {
   background-color: #deb887;
   padding: 10px;
 }
@@ -667,4 +667,5 @@ body {
   margin-bottom: -1px;
 }
 
+/*  */
 
